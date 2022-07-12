@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+awsecs/__init__.py
+awsecs/awsecs.py
+awsecs.egg-info/PKG-INFO
+awsecs.egg-info/SOURCES.txt
+awsecs.egg-info/dependency_links.txt
+awsecs.egg-info/entry_points.txt
+awsecs.egg-info/requires.txt
+awsecs.egg-info/top_level.txt

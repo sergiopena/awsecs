@@ -1,0 +1,3 @@
+[console_scripts]
+awsecs = awsecs.awsecs:main
+
